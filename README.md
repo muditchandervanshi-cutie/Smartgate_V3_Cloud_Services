@@ -322,6 +322,8 @@ A demonstration of Smart Gate V3 is available here:
 
 ▶️ Watch the Smart Gate V3 Demonstration
 
+https://drive.google.com/file/d/1yP2I0FTglJdkVnOfY3EcxiU7r78lYAd7/view?usp=sharing
+
 The demonstration shows the system operating with its embedded hardware and cloud-connected features.
 
 📈 Project Evolution

@@ -46,8 +46,6 @@ The gate uses sensors before requesting an RFID scan.
 
 The control sequence is:
 
-```text
-
 IDLE
   ↓
 Visitor Detected

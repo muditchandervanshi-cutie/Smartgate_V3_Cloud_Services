@@ -1,0 +1,16 @@
+# Local/private configuration
+config.h
+
+# Arduino build/output files
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

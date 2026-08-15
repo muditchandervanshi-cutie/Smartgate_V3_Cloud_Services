@@ -46,6 +46,8 @@ The gate uses sensors before requesting an RFID scan.
 
 The control sequence is:
 
+```
+
 IDLE
   ↓
 Visitor Detected
@@ -313,7 +315,7 @@ Real RFID card UIDs have also been replaced with example values in the public ve
 
 Never commit Wi-Fi passwords, private keys, API tokens, or other credentials to a public repository.
 
-
+```
 🧪 Demonstration
 
 A demonstration of Smart Gate V3 is available here:
@@ -323,7 +325,7 @@ A demonstration of Smart Gate V3 is available here:
 (https://drive.google.com/file/d/1yP2I0FTglJdkVnOfY3EcxiU7r78lYAd7/view?usp=drive_link)
 
 The demonstration shows the system operating with its embedded hardware and cloud-connected features..
-
+```
 📈 Project Evolution
 
 Smart Gate V3 is part of an ongoing project series.

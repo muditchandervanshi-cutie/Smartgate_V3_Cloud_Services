@@ -10,7 +10,7 @@ Demo Video + Photos
 
 https://drive.google.com/drive/folders/1Ut0r61W8mJfhidZGksEiZV_YINtIQAzK
 
-(Note: It kept detecting the Visitor as while recording this, i was in front of the HCSRO4 to get a good shot for the video. Also I've made a side view video too that shows that the system works perfectly without continuously triggering the visitor as I'm in the side in the other video.) 
+(Demonstration Note: During the front-view recording, the HC-SR04 continuously detected a visitor because I was positioned directly in front of the sensor to obtain a clear view of the system. A separate side-view demonstration is provided to show normal operation when the sensor is not continuously obstructed.) 
 
 ---
 
@@ -72,6 +72,16 @@ Authentication
   │   Gate Closes
   │
   └── Access Denied
+
+🔧 Adjustable IR Detection Threshold
+
+The front panel includes a small access opening aligned with the Flying Fish IR sensor's potentiometer. This allows the IR detection threshold to be adjusted externally without removing or disassembling the front panel.
+
+The potentiometer controls the sensor's sensitivity/detection range, allowing the system to be tuned according to the physical placement of the sensor and the required distance at which the RFID scanning stage should be activated.
+
+This provides a simple form of hardware-level calibration, making the visitor-detection and RFID activation point adjustable to suit different physical configurations.
+
+
 
 🚪 Servo-Controlled Gate
 

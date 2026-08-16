@@ -10,7 +10,7 @@ Demo Video + Photos
 
 https://drive.google.com/drive/folders/1Ut0r61W8mJfhidZGksEiZV_YINtIQAzK
 
-(Note: It kept detecting the Visitor as while recording this, i was in front of the HCSRO4 to get a good shot for he video.) 
+(Note: It kept detecting the Visitor as while recording this, i was in front of the HCSRO4 to get a good shot for the video.) 
 
 ---
 

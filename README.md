@@ -6,6 +6,12 @@ Smart Gate V3 builds upon the earlier versions of the project by adding cloud co
 
 ---
 
+Demo Video + Photos 
+
+https://drive.google.com/drive/folders/1Ut0r61W8mJfhidZGksEiZV_YINtIQAzK
+
+---
+
 ## 📌 Project Overview
 
 Smart Gate V3 is an embedded access-control system designed to demonstrate how hardware-based authentication can be combined with cloud services.

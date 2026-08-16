@@ -10,7 +10,7 @@ Demo Video + Photos
 
 https://drive.google.com/drive/folders/1Ut0r61W8mJfhidZGksEiZV_YINtIQAzK
 
-(Note: It kept detecting the Visitor as while recording this, i was in front of the HCSRO4 to get a good shot for the video.) 
+(Note: It kept detecting the Visitor as while recording this, i was in front of the HCSRO4 to get a good shot for the video. Also I've made a side view video too that shows that the system works perfectly without continuously triggering the visitor as I'm in the side in the other video.) 
 
 ---
 
